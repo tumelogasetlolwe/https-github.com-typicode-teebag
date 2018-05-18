@@ -1,5 +1,4 @@
-{
-    "docs": [{
+ [{
         "_id": "6e423be574562ed00c5d3c6108194b9d",
         "created_at": 1511415097000,
         "channel_id": "SocialMedia",
@@ -9,4 +8,4 @@
         "full_picture": "data:image/png;base64,iVBOR...",
         "type": "news"
     }]
-}
+
